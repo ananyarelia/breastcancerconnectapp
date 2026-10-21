@@ -1,11 +1,11 @@
-# breastcancerconnectapp
+# 🎗️ Breast Cancer Connect New Jersey
+
 Breast Cancer Connect is an Android application that helps New Jersey residents find breast cancer screening locations, understand insurance coverage, explore clinical trials, and access trusted healthcare information and support resources.
 
-# 🎗️ BreastConnect NJ-01
 
-**BreastConnect NJ-01** is an Android application developed for the **Congressional App Challenge** to make breast cancer screening information and support resources more accessible to New Jersey residents.
+**Breast Cancer Connect New Jersey** is an Android application developed for the **Congressional App Challenge** to make breast cancer screening information and support resources more accessible to New Jersey residents.
 
-Finding screening centers, understanding insurance coverage, and accessing reliable healthcare information can be challenging. BreastConnect NJ-01 brings these essential resources together in one user-friendly application, helping individuals and families make informed healthcare decisions.
+Finding screening centers, understanding insurance coverage, and accessing reliable healthcare information can be challenging. Breast Cancer Connect New Jersey brings these essential resources together in one user-friendly application, helping individuals and families make informed healthcare decisions.
 
 ## Key Features
 
