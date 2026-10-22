@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Breast Cancer Connect NJ</string>
+    <string-array name="policy_details">
+
+
+            <!-- 1. Breast Cancer Screening -->
+            <item>
+        Breast cancer screening helps detect cancer early, often before symptoms appear. Mammograms are the most common screening method and use low-dose X-rays to identify changes in breast tissue.
+
+        \n\nUnder federal preventive care requirements, most non-grandfathered health insurance plans cover recommended screening mammograms for eligible women without copayments or deductibles when performed by an in-network provider.
+
+        \n\nNew Jersey also has laws addressing breast cancer screening coverage. Depending on the insurance plan and medical circumstances, additional imaging such as diagnostic mammograms, breast ultrasound, or breast MRI may be covered.
+
+        \n\nMedicare Part B generally covers one screening mammogram every 12 months for eligible women age 40 and older. Diagnostic mammograms are covered when medically necessary, but deductibles and coinsurance may apply.
+
+        \n\nPatients should confirm screening eligibility, imaging coverage, provider network participation, and possible out-of-pocket costs with their insurance company.
+    </item>
+
+            <!-- 2. NJ Insurance and Coverage -->
+            <item>
+        New Jersey residents may obtain health insurance through employer-sponsored plans, Get Covered New Jersey, NJ FamilyCare, Medicare, or other eligible programs.
+
+        \n\nGet Covered New Jersey is the official state health insurance marketplace. Eligible residents can compare insurance plans and may qualify for financial assistance to reduce monthly premiums and other healthcare expenses.
+
+        \n\nNJ FamilyCare provides free or low-cost health coverage to qualifying New Jersey residents, including eligible children, adults, and families. Covered services may include preventive screenings, doctor visits, diagnostic testing, and cancer treatment.
+
+        \n\nMost marketplace plans include preventive services such as recommended screening mammograms. However, diagnostic imaging, specialist visits, and treatment may involve copayments, coinsurance, or deductibles depending on the plan and applicable legal protections.
+
+        \n\nBefore scheduling breast imaging, patients should confirm whether the facility is in-network, whether a referral or prior authorization is required, and whether any out-of-pocket costs apply.
+
+        \n\nNew Jersey also provides insurance consumer protections, including procedures for appealing certain denied claims and requesting assistance with insurance-related concerns.
+    </item>
+
+            <!-- 3. NJ Breast Cancer Programs -->
+            <item>
+        New Jersey offers public health programs that help eligible residents access breast cancer education, screening, early detection, and treatment resources.
+
+        \n\nThe New Jersey Cancer Education and Early Detection (NJCEED) Program provides cancer screening and related services to qualifying uninsured and underinsured residents.
+
+        \n\nNJCEED services include breast cancer education, outreach, screening mammograms, clinical breast examinations when appropriate, case management, follow-up for abnormal results, and assistance connecting patients with treatment resources.
+
+        \n\nEligibility generally includes meeting program age and screening criteria, being uninsured or underinsured, and having household income at or below 250% of the federal poverty level. Additional eligibility requirements may apply.
+
+        \n\nNJCEED services are coordinated through local agencies serving New Jersey counties. Eligible individuals may receive screening services at no cost.
+
+        \n\nSome patients diagnosed with breast or cervical cancer through qualifying screening programs may also be eligible for treatment coverage through NJ FamilyCare, subject to program requirements.
+
+        \n\nResidents should contact their local NJCEED provider to confirm eligibility, available services, appointment requirements, and follow-up assistance.
+    </item>
+
+            <!-- 4. Patient Rights and Protections -->
+            <item>
+        Patients in New Jersey have important rights related to medical care, informed consent, privacy, access to medical information, billing, and treatment decisions.
+
+        \n\nPatients generally have the right to receive understandable information about their medical condition, recommended tests, treatment options, possible risks, and available alternatives before making healthcare decisions.
+
+        \n\nFederal HIPAA regulations provide protections for personal health information and generally give patients the right to access and request copies of their medical records.
+
+        \n\nNew Jersey hospital patients have additional rights involving respectful treatment, communication, participation in care decisions, billing information, and access to complaint procedures.
+
+        \n\nPatients can request an itemized hospital bill, seek explanations of charges, and raise billing concerns. Insurance members may also have rights to appeal denied claims and request independent review of certain coverage decisions.
+
+        \n\nFederal and New Jersey laws provide protections against certain forms of discrimination in healthcare. New Jersey also has consumer protections addressing qualifying out-of-network medical bills.
+
+        \n\nThe protections that apply may depend on the healthcare setting, insurance plan, and circumstances. Patients should contact their healthcare provider, insurer, or the appropriate state agency when they have concerns about their rights.
+    </item>
+
+            <!-- 5. Recent Policy Updates -->
+            <item>
+        Breast cancer screening policies, health insurance requirements, and public health programs may change as new legislation, regulations, and medical recommendations are introduced.
+
+        \n\nFederal preventive care recommendations influence which breast cancer screening services must be covered without cost-sharing by many health insurance plans.
+
+        \n\nNew Jersey may introduce or update legislation concerning mammography coverage, diagnostic breast imaging, supplemental screening, patient protections, and access to cancer treatment.
+
+        \n\nChanges to Get Covered New Jersey, NJ FamilyCare, Medicare, and other health programs may affect eligibility, covered services, enrollment requirements, or financial assistance.
+
+        \n\nIt is important to distinguish proposed legislation from laws that have been enacted. A proposed bill does not create new insurance benefits unless it becomes law and the relevant requirements take effect.
+
+        \n\nPatients should review official information from the New Jersey Legislature, New Jersey Department of Health, New Jersey Department of Banking and Insurance, and federal healthcare agencies for the latest updates.
+
+        \n\nAlways confirm current coverage rules and benefits with your insurance provider before scheduling medical services.
+    </item>
+
+        </string-array>
+
+
+    <string-array name="policy_option_1_text_links">
+        <item>CMS — Mammography Coverage</item>
+        <item>CMS — Preventive Services</item>
+        <item>NJ Department of Banking and Insurance — Breast Imaging Policy Information</item>
+    </string-array>
+    <string-array name="policy_option_1_url_links">
+        <item>https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=186</item>
+        <item>https://www.cms.gov/medicare/coverage/preventive-services-coverage</item>
+        <item>https://www.nj.gov/dobi/division_insurance/ihcseh/rules/seh250101/PolicyB_E2025AppendixF.pdf</item>
+    </string-array>
+
+    <string-array name="policy_option_2_text_links">
+        <item>GetCoveredNJ — Official NJ Health Insurance Marketplace</item>
+        <item>GetCoveredNJ — Frequently Asked Questions</item>
+        <item>NJ FamilyCare — Health Coverage Programs</item>
+        <item>NJ Department of Banking and Insurance — Consumer Health Insurance Information</item>
+    </string-array>
+    <string-array name="policy_option_2_url_links">
+        <item>https://www.nj.gov/getcoverednj/</item>
+        <item>https://www.nj.gov/getcoverednj/findanswers/faqs/</item>
+        <item>https://www.nj.gov/humanservices/dmahs/individuals-families/familycare/adults/</item>
+        <item>https://www.nj.gov/dobi/division_consumers/insurance/health.htm</item>
+    </string-array>
+
+    <string-array name="policy_option_3_text_links">
+        <item>NJDOH — NJ Cancer Education and Early Detection (NJCEED)</item>
+        <item>NJDOH — NJCEED Screening Locations</item>
+        <item>NJDOH — Office of Cancer Control and Prevention</item>
+        <item>NJ Human Services — NJ FamilyCare Programs</item>
+    </string-array>
+
+    <string-array name="policy_option_3_url_links">
+        <item>https://www.nj.gov/health/ces/public/resources/njceed.shtml</item>
+        <item>https://www.nj.gov/health/ces/public/resources/occp.shtml</item>
+        <item>https://www.nj.gov/health/ces/public/resources/occp.shtml</item>
+        <item>https://www.nj.gov/humanservices/dmahs/individuals-families/familycare/adults/</item>
+    </string-array>
+
+    <string-array name="policy_option_4_text_links">
+        <item>NJDOH — Your Rights As A Patient</item>
+        <item>NJ Department of Banking and Insurance — Managed Care Consumer Rights</item>
+        <item>NJ Department of Banking and Insurance — Out-of-Network Consumer Protections</item>
+    </string-array>
+
+    <string-array name="policy_option_4_url_links">
+        <item>https://www.nj.gov/dobi/division_insurance/managedcare/mcconsrights.htm</item>
+        <item>https://www.nj.gov/dobi/division_insurance/managedcare/mcconsrights.htm</item>
+        <item>https://www.nj.gov/dobi/division_consumers/insurance/outofnetwork.html</item>
+    </string-array>
+
+    <string-array name="policy_option_5_text_links">
+        <item>NJ Legislature — Current Bills</item>
+        <item>NJDOH — News &amp; Announcements</item>
+        <item>NJ Department of Banking and Insurance — Health Insurance Information</item>
+        <item>NJDOH — Cancer Resources</item>
+    </string-array>
+
+    <string-array name="policy_option_5_url_links">
+        <item>https://pub.njleg.state.nj.us/Bills/</item>
+        <item>https://nj.gov/health/news/</item>
+        <item>https://www.nj.gov/dobi/division_consumers/insurance/health.htm</item>
+        <item>https://www.nj.gov/health/ces/public/resources/</item>
+    </string-array>
+
+
+</resources>
